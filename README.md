@@ -3,7 +3,7 @@
 **Software Engineer** | B.A. Computer Science (May 2027), Luther College
 
 Backend and full-stack engineer with internship experience in healthcare
-software and enterprise systems. Open to SWE, backend, and new grad roles.
+software and enterprise systems. Open to full-time and new grad roles.
 
 [Email](mailto:you@example.com) · [LinkedIn](https://linkedin.com/in/yourhandle) · [Portfolio](https://yoursite.com)
 
