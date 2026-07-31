@@ -39,7 +39,3 @@ software and enterprise systems. Open to full-time and new grad roles.
 **Databases & Infra:** PostgreSQL, MySQL, Supabase, Docker, Azure, AWS, Terraform, Git
 
 ---
-
-## GitHub Overview
-
-<!-- stats cards go here — see Step 4 -->
