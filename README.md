@@ -11,7 +11,7 @@ software and enterprise systems. Open to full-time and new grad roles.
 
 ## About
 
-- Backend Developer Intern → DevOps / Team Lead at **SkyIT (GBCS Group)** — multi-tenant
+- Backend Developer Intern → Backend / Team Lead at **SkyIT (GBCS Group)** — multi-tenant
   Django REST APIs, enterprise GHG emissions engine, Terraform/Azure deployments
 - Software Developer Intern at **Mayo Clinic**, Digital Health Division — medical
   imaging portal with React, FastAPI, and OHIF Viewer under DICOM/HIPAA constraints
