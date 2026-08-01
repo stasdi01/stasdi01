@@ -5,7 +5,7 @@
 Backend and full-stack engineer with internship experience in healthcare
 software and enterprise systems. Open to full-time and new grad roles.
 
-[Email](mailto:stasdi01@luther.edu) · [LinkedIn](https://www.linkedin.com/in/dimitrije-stasic-a225ab35b/) · [Portfolio](https://portfolio-tau-sage-31.vercel.app/)
+[Email](mailto:stasdi01@luther.edu) · [LinkedIn](https://www.linkedin.com/in/dimitrije-stasic-a225ab35b/) · [Portfolio](https://dimitrijestasic.com/)
 
 ---
 
