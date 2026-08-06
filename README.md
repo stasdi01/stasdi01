@@ -24,7 +24,7 @@ software and enterprise systems. Open to full-time and new grad roles.
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [**DormSy**](https://github.com/YOUR-USERNAME/dormsy) | Campus marketplace for Luther College students — listings, search, and student-to-student sales | Next.js, Supabase, Node.js, Tailwind |
+| [**DormSy**](https://github.com/YOUR-USERNAME/dormsy) | Campus marketplace for Luther College students: listings, search, and student-to-student sales | Next.js, Supabase, Node.js, Tailwind |
 | [**Dr. Anamneza**](https://github.com/YOUR-USERNAME/dr-anamneza) | Patient-owned private health record app for the Serbian market, with document scanning and multi-profile accounts | React Native, Expo, Supabase, TanStack Query |
 | [**DreamTogether**](https://github.com/YOUR-USERNAME/dreamtogether) | Shared wishlist app for couples and families | Flutter, Supabase |
 
